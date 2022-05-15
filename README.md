@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Lin-Blu3
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning java, js, python, robotics, japanese
+- 📫 How to reach me / Dm me on discord at lin_blue#9371
